@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, Emanuel here 👋
 
-<!--
-**egevorgyan/egevorgyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring engineer that likes to tackle complex problems with easy solutions,
+searching to add value to society.
 
-Here are some ideas to get you started:
+Finding joy in reading & playing chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Java · Spring · Maven · Hibernate/JPA · PostgreSQL · MySQL · Docker · Git
+
+## Currently
+Studying Information Systems Engineering at UTN.
+Scout Leader, Chess Teacher.
