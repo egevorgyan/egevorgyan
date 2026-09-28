@@ -2,7 +2,6 @@
 
 Aspiring engineer that likes to tackle complex problems with easy solutions,
 searching to add value to society.
-
 Finding joy in reading & playing chess.
 
 ## Stack
